@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2021/02/09/droppedimage.jpg"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: Home
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
