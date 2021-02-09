@@ -5,11 +5,13 @@ date: 2021-02-08 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
-  navigation: []
+  logo: "/uploads/2021/02/09/droppedimage.jpg"
+  navigation:
+  - link: ''
+    link_text: ''
   cta:
-    url: ''
-    button_text: ''
+    url: google.com
+    button_text: facfsafas
 - template: full-width-media-element
   block: media-1
   slug: ''
