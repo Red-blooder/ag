@@ -30,7 +30,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Vai a trovarmi su facebook
   image:
-    image: "/uploads/2021/02/09/wszz2725.JPG"
+    image: "/uploads/2021/02/09/wszz2725.png"
     alt_text: Me
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
