@@ -14,7 +14,7 @@ page_sections:
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Chi siamo
   - link: "#blocks"
     link_text: Blocks
   cta:
