@@ -28,7 +28,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Vai a trovarmi su facebook
   image:
     image: "/uploads/2021/02/09/wszz2725.JPG"
     alt_text: Product Shot
