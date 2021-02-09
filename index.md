@@ -32,7 +32,7 @@ page_sections:
   image:
     image: "/uploads/2021/02/09/wszz2725.png"
     alt_text: Me
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/02/09/chyfck4-binary-wallpaper.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -82,6 +82,5 @@ page_sections:
   col_3: caas
   col_4: casac
   image: "/uploads/2018/06/21/forestry-symbol.svg"
-published: false
 
 ---
