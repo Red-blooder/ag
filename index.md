@@ -82,6 +82,5 @@ page_sections:
   col_3: caas
   col_4: casac
   image: "/uploads/2018/06/21/forestry-symbol.svg"
-published: false
 
 ---
